@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\bin\Debug\net8.0\Shape_Resizeable.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\bin\Debug\net8.0\Shape_Resizeable.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\bin\Debug\net8.0\Shape_Resizeable.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\bin\Debug\net8.0\Shape_Resizeable.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\bin\Debug\net8.0\Shape_Resizeable.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\refint\Shape_Resizeable.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\Shape_Resizeable.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Shape_Resizeable\obj\Debug\net8.0\ref\Shape_Resizeable.dll
